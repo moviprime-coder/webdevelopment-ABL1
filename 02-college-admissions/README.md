@@ -42,3 +42,8 @@ Open `index.html` in a modern web browser.
 
 ## Important
 This is an educational sample website. The inquiry form only displays a front-end confirmation; it does not send or store applications. College and program information is sample content.
+
+
+## Screenshot
+
+![College Admissions Website Screenshot](../screenshots/02-college-admissions.jpg)
