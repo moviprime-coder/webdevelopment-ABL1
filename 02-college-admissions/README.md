@@ -46,4 +46,4 @@ This is an educational sample website. The inquiry form only displays a front-en
 
 ## Screenshot
 
-![College Admissions Website Screenshot](../screenshots/02-college-admissions.jpg)
+![College Admissions Website Screenshot](screenshots/college-admissions.jpg)
