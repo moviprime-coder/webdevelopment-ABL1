@@ -42,3 +42,8 @@ Open `index.html` in a modern web browser.
 
 ## Important
 This is a front-end demonstration. Reservation requests are not sent to a real restaurant or backend. Cafe details and menu items are sample content.
+
+
+## Screenshot
+
+![Restaurant and Cafe Website Screenshot](../screenshots/03-restaurant-cafe.jpg)
