@@ -1,0 +1,1 @@
+document.getElementById('booking').addEventListener('submit',e=>{e.preventDefault();document.getElementById('msg').textContent='Request recorded in this demo. Contact the cafe to confirm.';});
