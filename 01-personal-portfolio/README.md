@@ -45,4 +45,4 @@ Replace the placeholder email/contact information with actual details before sub
 
 ## Screenshot
 
-![Personal Portfolio Screenshot](../screenshots/01-personal-portfolio.jpg)
+![Personal Portfolio Screenshot](screenshots/portfolio.jpg)
