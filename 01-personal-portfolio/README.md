@@ -41,3 +41,8 @@ Open `index.html` in any modern web browser.
 
 ## Notes
 Replace the placeholder email/contact information with actual details before submitting or publishing.
+
+
+## Screenshot
+
+![Personal Portfolio Screenshot](../screenshots/01-personal-portfolio.jpg)
