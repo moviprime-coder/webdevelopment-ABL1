@@ -46,4 +46,4 @@ This is a front-end demonstration. Reservation requests are not sent to a real r
 
 ## Screenshot
 
-![Restaurant and Cafe Website Screenshot](screenshots/restaurant-cafe.jpg)
+![Restaurant and Cafe Website Screenshot](screenshots/restaurant-cafe.svg)
