@@ -1,49 +1,26 @@
 # Restaurant and Cafe Website
 
-**Web Development ABL — Project 3**
+## Purpose
+A static HTML5 and CSS project created using only the topics in the supplied Web Development syllabus.
 
-## Student Details
-- **Name:** M. M. Mohith Sai Chand
-- **Roll Number:** 26001326
-- **Branch:** CSM
-- **Section:** CSM-7
-
-## Overview
-A responsive cafe website for the sample brand **Olive & Ember**, featuring its story, menu, reservation request form, and visit information.
-
-## Features
-- Cafe landing page and introduction
-- Menu items and prices
-- Reservation request form
-- Visit/location information
-- Responsive navigation and layout
-
-## Technologies
-- HTML5
-- CSS3
-- JavaScript
-
-## Syllabus Concepts Demonstrated
-- HTML structure, headings, paragraphs, forms, and links
-- CSS classes, selectors, and rulesets
-- Text properties, typography, and colors
-- Background color, borders, margin, and padding
-- CSS box model and responsive design
-- User interface design and mobile-first approach
-- HTML5 semantic structure
+## Syllabus concepts used
+- HTML document structure, elements, semantic HTML5 sections, headings and paragraphs
+- Hyperlinks and same-document navigation using anchor elements
+- Lists, image elements, line breaks where needed, and horizontal rules where appropriate
+- CSS syntax, selectors, class attributes, multiple rulesets
+- Text alignment, color, background color and background styling
+- Font family, font size, text decoration, borders, width, height, padding and margins
+- CSS box model, viewport and responsive mobile-first layout
+- UI/UX basics: readable hierarchy, consistent spacing, visual grouping, color contrast and simple navigation
+- Accessibility basics: descriptive page titles, semantic landmarks, navigation labels, and image alt text
 
 ## Files
-- `index.html` — Website content and structure
-- `style.css` — Styling and responsive layout
-- `script.js` — Reservation form demo interaction
+- `index.html` — page structure and content
+- `style.css` — presentation and responsive layout
+- `cafe.svg` — local illustration used by the image element
 
-## Run Locally
-Open `index.html` in a modern web browser.
+## Run
+Open `index.html` in a web browser. No JavaScript or external framework is required.
 
-## Important
-This is a front-end demonstration. Reservation requests are not sent to a real restaurant or backend. Cafe details and menu items are sample content.
-
-
-## Screenshot
-
-![Restaurant and Cafe Website Screenshot](screenshots/restaurant-cafe.svg)
+## Scope note
+The implementation intentionally uses only the topics listed in the provided syllabus image.

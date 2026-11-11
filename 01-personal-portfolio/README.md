@@ -1,48 +1,26 @@
-# Personal Portfolio Website
+# Personal Portfolio
 
-**Web Development ABL — Project 1**
+## Purpose
+A static HTML5 and CSS project created using only the topics in the supplied Web Development syllabus.
 
-## Student Details
-- **Name:** M. M. Mohith Sai Chand
-- **Roll Number:** 26001326
-- **Branch:** CSM
-- **Section:** CSM-7
-
-## Overview
-A responsive personal portfolio website presenting the student's profile, skills, project work, and contact information.
-
-## Features
-- Personal introduction and profile
-- Skills section
-- ABL project links
-- Contact information
-- Responsive navigation and mobile layout
-
-## Technologies
-- HTML5
-- CSS3
-- JavaScript
-
-## Syllabus Concepts Demonstrated
-- HTML document structure, elements, and attributes
-- Semantic sections and hyperlinks
-- CSS selectors and class attributes
-- Text alignment, text color, and background color
-- Typography, spacing, and the CSS box model
-- Responsive/mobile-first interface design
+## Syllabus concepts used
+- HTML document structure, elements, semantic HTML5 sections, headings and paragraphs
+- Hyperlinks and same-document navigation using anchor elements
+- Lists, image elements, line breaks where needed, and horizontal rules where appropriate
+- CSS syntax, selectors, class attributes, multiple rulesets
+- Text alignment, color, background color and background styling
+- Font family, font size, text decoration, borders, width, height, padding and margins
+- CSS box model, viewport and responsive mobile-first layout
+- UI/UX basics: readable hierarchy, consistent spacing, visual grouping, color contrast and simple navigation
+- Accessibility basics: descriptive page titles, semantic landmarks, navigation labels, and image alt text
 
 ## Files
-- `index.html` — Website structure and content
-- `style.css` — Styling and responsive layout
-- `script.js` — Navigation interaction
+- `index.html` — page structure and content
+- `style.css` — presentation and responsive layout
+- `profile.svg` — local illustration used by the image element
 
-## Run Locally
-Open `index.html` in any modern web browser.
+## Run
+Open `index.html` in a web browser. No JavaScript or external framework is required.
 
-## Notes
-Replace the placeholder email/contact information with actual details before submitting or publishing.
-
-
-## Screenshot
-
-![Personal Portfolio Screenshot](screenshots/portfolio.svg)
+## Scope note
+The implementation intentionally uses only the topics listed in the provided syllabus image.

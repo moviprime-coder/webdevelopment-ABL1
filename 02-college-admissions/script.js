@@ -1,1 +1,0 @@
-document.getElementById('info').addEventListener('submit',e=>{e.preventDefault();document.getElementById('msg').textContent='Thank you! This demo inquiry was captured locally.';});

@@ -1,49 +1,26 @@
-# College Information and Admissions Website
+# College Admissions Information
 
-**Web Development ABL — Project 2**
+## Purpose
+A static HTML5 and CSS project created using only the topics in the supplied Web Development syllabus.
 
-## Student Details
-- **Name:** M. M. Mohith Sai Chand
-- **Roll Number:** 26001326
-- **Branch:** CSM
-- **Section:** CSM-7
-
-## Overview
-A responsive sample college website introducing the institution, displaying academic programs, explaining the admissions process, and providing an inquiry form.
-
-## Features
-- College introduction and overview
-- Academic program cards
-- Admissions steps
-- Responsive navigation
-- Information request form with front-end confirmation
-
-## Technologies
-- HTML5
-- CSS3
-- JavaScript
-
-## Syllabus Concepts Demonstrated
-- HTML structure, headings, paragraphs, lists, and links
-- CSS syntax, selectors, classes, and multiple rulesets
-- Font family, font size, text styling, and colors
-- Backgrounds, borders, margin, and padding
-- CSS box model and responsive layouts
-- UI/UX principles and mobile-first design
-- HTML5 semantic elements
+## Syllabus concepts used
+- HTML document structure, elements, semantic HTML5 sections, headings and paragraphs
+- Hyperlinks and same-document navigation using anchor elements
+- Lists, image elements, line breaks where needed, and horizontal rules where appropriate
+- CSS syntax, selectors, class attributes, multiple rulesets
+- Text alignment, color, background color and background styling
+- Font family, font size, text decoration, borders, width, height, padding and margins
+- CSS box model, viewport and responsive mobile-first layout
+- UI/UX basics: readable hierarchy, consistent spacing, visual grouping, color contrast and simple navigation
+- Accessibility basics: descriptive page titles, semantic landmarks, navigation labels, and image alt text
 
 ## Files
-- `index.html` — Page content and structure
-- `style.css` — Visual design and responsive styling
-- `script.js` — Demo inquiry form interaction
-
-## Run Locally
-Open `index.html` in a modern web browser.
-
-## Important
-This is an educational sample website. The inquiry form only displays a front-end confirmation; it does not send or store applications. College and program information is sample content.
+- `index.html` — page structure and content
+- `style.css` — presentation and responsive layout
 
 
-## Screenshot
+## Run
+Open `index.html` in a web browser. No JavaScript or external framework is required.
 
-![College Admissions Website Screenshot](screenshots/college-admissions.svg)
+## Scope note
+The implementation intentionally uses only the topics listed in the provided syllabus image.
